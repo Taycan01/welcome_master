@@ -7,3 +7,6 @@ body{
     width: 50rem;
     margin: 0 auto;
 }
+.paisaje, .historia, .efectos{
+    border: 5px, solid, black
+}
